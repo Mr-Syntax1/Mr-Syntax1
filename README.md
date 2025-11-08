@@ -5,20 +5,22 @@
 
 <img align="right" alt="Mr-Syntax1" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
 
-- 🔭 I’m currently working on [Complete school management project with Tkinter](https://github.com/sheikh-python/Tkinter_school_project)
-- 🌱 I’m currently learning **Django Framework and Machine Learning**
-- 🤝 You can see my tutorials on my YouTube channel [sheikh_python](https://www.youtube.com/@sheikh_python)
-- 👨‍💻 All of my projects are available at [https://github.com/sheikh-python](https://github.com/sheikh-python)
-- 💬 Ask me about **Tkinter and python**
-- 📫 How to reach me **maam98617@gmail.com**
+- 🔭 I’m currently working on multiple modern front-end projects including responsive UI design, reusable UI components and smooth micro-interactions.
+
+- 🌱 I’m currently learning advanced concepts in JavaScript such as asynchronous programming, API integration, and I’m also improving my skills in front-end performance optimization.
+
+- 🤝 You can check my front-end practice snippets, animations, and UI experiments on my GitHub repositories — I upload new UI ideas frequently.
+
+- 👨‍💻 All of my web based projects including HTML, CSS, JS, small web apps, mini games and UI design demos are available at: https://github.com/Mr-Syntax1
+
+- 💬 Ask me about front-end development best practices, responsive UI architecture, clean CSS structuring, animations, or anything related to modern front-end workflow.
+
+- 📫 How to reach me: **maam98617@gmail.com**
+
 
 ---
 
 <img align="left" width="350" src="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif"/>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikh-python&show_icons=true&locale=en&layout=compact" alt="sheikh-python" />
-</p>
 
 <br clear="both"/>
 
