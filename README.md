@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **maam98617@gmail.com**
 
-- 
 <p><img align="right" alt="Mr-Syntax1" width = "400" src ="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif""></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikh-python&show_icons=true&locale=en&layout=compact" alt="sheikh-python" /></p>
