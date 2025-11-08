@@ -5,18 +5,17 @@
 
 <img align="right" alt="Mr-Syntax1" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
 
-- 🔭 I’m currently working on multiple modern front-end projects including responsive UI design, reusable UI components and smooth micro-interactions.
+- 🔭 I’m currently working on modern front-end interfaces and UI components.
 
-- 🌱 I’m currently learning advanced concepts in JavaScript such as asynchronous programming, API integration, and I’m also improving my skills in front-end performance optimization.
+- 🌱 I’m learning advanced JavaScript concepts and improving my skills in responsive UI.
 
-- 🤝 You can check my front-end practice snippets, animations, and UI experiments on my GitHub repositories — I upload new UI ideas frequently.
+- 🤝 I upload front-end UI ideas, mini projects and experiments regularly.
 
-- 👨‍💻 All of my web based projects including HTML, CSS, JS, small web apps, mini games and UI design demos are available at: https://github.com/Mr-Syntax1
+- 👨‍💻 All of my web projects are available at: https://github.com/Mr-Syntax1
 
-- 💬 Ask me about front-end development best practices, responsive UI architecture, clean CSS structuring, animations, or anything related to modern front-end workflow.
+- 💬 Ask me about HTML, CSS, JavaScript and front-end workflow.
 
 - 📫 How to reach me: **maam98617@gmail.com**
-
 
 ---
 
