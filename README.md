@@ -17,14 +17,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh-python"/>
-</p>
-
----
-
 ### 🤝 Connect with me:
 
 <p align="left">
