@@ -28,7 +28,7 @@
 ### 🚀 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
 </p>
 
 ---
