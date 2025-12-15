@@ -22,12 +22,6 @@
 
 ---
 
-<img align="left" width="350" src="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif"/>
-
-<br clear="both"/>
-
----
-
 ### 🚀 Languages & Tools
 
 <p align="center">
