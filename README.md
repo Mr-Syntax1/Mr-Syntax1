@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Mr-Syntax1" width="200" height="200" src="https://github.com/user-attachments/assets/54c66185-734d-49d2-af31-0d8b5ef36de2"/>
+<img align="right" alt="Mr-Syntax1" width="250" height="250" src="https://github.com/user-attachments/assets/54c66185-734d-49d2-af31-0d8b5ef36de2"/>
 
 - 🔭 I’m currently working on modern front-end interfaces and UI components.
 
