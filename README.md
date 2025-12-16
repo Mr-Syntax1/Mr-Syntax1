@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on modern front-end interfaces and UI components.
 
-- 🌱 I’m learning advanced JavaScript concepts and improving my skills in responsive UI.
+- 🌱 I have reached an **intermediate level in JavaScript**, have **almost completed Tailwind CSS**, and I’m currently **learning React** to build more dynamic and scalable front-end applications.
 
-- 🤝 I upload front-end UI ideas, mini projects and experiments regularly.
+- 🤝 I upload front-end UI ideas, mini projects, and experiments regularly.
 
 - 👨‍💻 All of my web projects are available at: https://github.com/Mr-Syntax1
 
-- 💬 Ask me about HTML, CSS, JavaScript and front-end workflow.
+- 💬 Ask me about HTML, CSS, JavaScript, Tailwind CSS, and front-end workflow.
 
 - 📫 How to reach me: **maam98617@gmail.com**
 
