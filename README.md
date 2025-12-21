@@ -1,5 +1,5 @@
 
-![woman-headphones-coding-desk-near-window_717577-23392](https://github.com/user-attachments/assets/361cebd3-7908-4885-97b4-d8c22131c9dc)
+![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/a1e2f0d5-318b-432a-afb9-71d8fbed6284)
 
 <h1 align="center">Hi 👋, I'm Mr-Syntax1</h1>
 <h3 align="center">A front-end software developer</h3>
