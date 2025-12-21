@@ -1,5 +1,5 @@
 
-![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/a1e2f0d5-318b-432a-afb9-71d8fbed6284)
+![fbc6f31bd3b84159470b973aca7e0f97_gif19201080pixels-ezgif com-crop (1)](https://github.com/user-attachments/assets/f7b50643-3606-4f5d-91ab-4e0dbdba3779)
 
 <h1 align="center">Hi 👋, I'm Mr-Syntax1</h1>
 <h3 align="center">A front-end software developer</h3>
