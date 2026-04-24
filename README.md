@@ -6,17 +6,19 @@
 
 <img align="right" alt="Mr-Syntax1" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
 
-- 🔭 I’m currently working on modern front-end interfaces and UI components.
+🔭 I’m currently working on modern front-end interfaces and interactive UI components.
 
-- 🌱 I have reached an **intermediate level in JavaScript**, have **almost completed Tailwind CSS**, and I’m currently **learning React** to build more dynamic and scalable front-end applications.
+💡 I have advanced skills in HTML, CSS, and Tailwind CSS, an intermediate level in JavaScript, and an upper‑intermediate level in React for building scalable and dynamic web applications.
 
-- 🤝 I upload front-end UI ideas, mini projects, and experiments regularly.
+🐍 I’m also learning Python powerful libraries to expand my back-end and automation skills. Right now, I’m practicing React and Python to strengthen my proficiency in both.
 
-- 👨‍💻 All of my web projects are available at: https://github.com/Mr-Syntax1
+🤝 I regularly upload front-end UI ideas, mini projects, and experiments and Python scripts.
 
-- 💬 Ask me about HTML, CSS, JavaScript, Tailwind CSS, and front-end workflow.
+👨‍💻 You can find all my web projects here: GitHub – Mr‑Syntax1
 
-- 📫 How to reach me: **maam98617@gmail.com**
+💬 Ask me about HTML, CSS, JavaScript, Tailwind CSS, React, or front‑end workflow.
+
+📫 Contact me at: maam98617@gmail.com
 
 ---
 
