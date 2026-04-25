@@ -14,9 +14,7 @@
 
 🤝 I regularly upload front-end UI ideas, mini projects, and experiments and Python scripts.
 
-👨‍💻 You can find all my web projects here: GitHub – Mr‑Syntax1
-
-💬 Ask me about HTML, CSS, JavaScript, Tailwind CSS, React, or front‑end workflow.
+👨‍💻 You can find all my projects here: GitHub – Mr‑Syntax1
 
 📫 Contact me at: maam98617@gmail.com
 
