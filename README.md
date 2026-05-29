@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on modern front-end interfaces and interactive UI components.
 
-💡 I have advanced skills in HTML, CSS, and Tailwind CSS, an intermediate level in JavaScript, and an upper‑intermediate level in React for building scalable and dynamic web applications.
+💡 I have advanced skills in HTML, CSS, and Tailwind CSS, an intermediate level in JavaScript and TypeScript, and an upper‑intermediate level in React for building scalable and dynamic web applications.
 
 🐍 I’m also learning Python powerful libraries to expand my back-end and automation skills. Right now, I’m practicing React and Python to strengthen my proficiency in both.
 
