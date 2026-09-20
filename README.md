@@ -29,25 +29,24 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,typescript,python,linux,nextjs,mongodb,git," />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
 ---
 
 ### 🤝 Connect with me:
 
 <p align="center">
+  
 <a href="https://t.me/Borhan1345" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+  
 <a href="mailto:maam98617@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Mr-Syntax1" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
