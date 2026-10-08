@@ -1,11 +1,27 @@
 <h1 align="center">
+  <svg width="600" height="70" viewBox="0 0 600 70">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#38BDF8;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#A78BFA;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#F472B6;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Poppins, sans-serif" font-weight="800" font-size="40" fill="url(#grad)">
+      Hi 👋, I'm Green. Rose
+    </text>
+  </svg>
+</h1>
+
+
+<!-- <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
   Hi, I'm Green. Rose
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=4500&pause=1500&color=2E9EF7&center=true&vCenter=true&width=650&lines=A+Full-Stack+Software+Developer" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
 
