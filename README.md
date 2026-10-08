@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Green. Rose</h1>
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
+  Hi, I'm Green. Rose
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
+</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=4500&pause=1500&color=2E9EF7&center=true&vCenter=true&width=650&lines=A+Full-Stack+Software+Developer" alt="Typing SVG" />
 </p>
