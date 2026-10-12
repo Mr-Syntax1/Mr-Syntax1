@@ -36,7 +36,7 @@
 
 ### 🚀 Languages & Tools
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 22px;">
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=js" />
