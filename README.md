@@ -36,14 +36,24 @@
 
 ### 🚀 Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,typescript,python,nextjs" />
-</p>
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,linux,nodejs,mysql,postman,express,vercel" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</div>
 
 ---
 
