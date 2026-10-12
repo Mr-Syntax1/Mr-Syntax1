@@ -14,26 +14,30 @@
 
 🔭 I'm currently working on full-stack web applications with modern UI and scalable back-end architecture.
 
-💡 I have advanced skills in HTML, CSS, Tailwind CSS, React, Next.js, TypeScript, and MongoDB — building production-ready full-stack applications with authentication, payment gateways, and admin dashboards.
+💡 Advanced: HTML, CSS, Tailwind CSS, React, Next.js, MongoDB — building production-ready apps with authentication, payment gateways, and admin dashboards.
 
-🛠️ Experienced with Git for version control and WSL for Linux-based development workflows on Windows.
+⚙️ Intermediate: Node.js, MySQL, Postman, MySQL Workbench ,TypeScript — building REST APIs with Express, JWT, and database integration.
 
-🐍 I'm also learning Python and its powerful libraries to expand my back-end and automation skills.
+🗄️ Beginner: SQL Server — actively expanding my database expertise.
 
-📚 Currently diving deeper into **Node.js** and **SQL** to strengthen my back-end expertise.
+🛠️ Experienced with Git and WSL for Linux-based development on Windows.
 
-🤝 I regularly upload full-stack projects, front-end UI ideas, mini projects, and experiments.
+🐍 Also learning Python for fun.
 
-👨‍💻 You can find all my projects here: [GitHub – Mr-Syntax1](https://github.com/Mr-Syntax1)
+📚 Currently diving deeper into **Node.js** and **MySQL** and **TypeScript**.
 
-📫 Contact me at: **mrsyntax22@gmail.com**
+🤝 I regularly upload full-stack projects, front-end UI ideas, and experiments.
+
+👨‍💻 GitHub: [Mr-Syntax1](https://github.com/Mr-Syntax1)
+
+📫 Contact: **mrsyntax22@gmail.com**
 
 ---
 
 ### 🚀 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,typescript,python,linux,nextjs,mongodb,git," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,typescript,python,linux,nextjs,mongodb,git,nodejs,mysql,sqlserver,postman,express,vercel" />
 </p>
 
 ---
