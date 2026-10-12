@@ -22,7 +22,7 @@
 
 🛠️ Experienced with Git and WSL for Linux-based development on Windows.
 
-🐍 Also learning Python for fun.
+🐍 I'm also learning Python for fun.
 
 📚 Currently diving deeper into **Node.js** and **MySQL** and **TypeScript**.
 
