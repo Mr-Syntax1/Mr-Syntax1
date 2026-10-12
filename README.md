@@ -36,23 +36,55 @@
 
 ### 🚀 Languages & Tools
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=typescript" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=vercel" />
+<div align="center">
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=typescript" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </span>
+  <span style="margin: 0 5px;">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </span>
 </div>
 
 ---
