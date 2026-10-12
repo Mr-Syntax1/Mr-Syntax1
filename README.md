@@ -37,12 +37,11 @@
 ### 🚀 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,typescript,python,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,typescript,python,nextjs" style="margin: 5px;" />
 </p>
 
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,linux,nodejs,mysql,postman,express,vercel" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,linux,nodejs,mysql,postman,express,vercel" style="margin: 5px;" />
 </p>
 
 ---
