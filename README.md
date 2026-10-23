@@ -42,7 +42,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,linux,nodejs,mysql,postman,express,vercel" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,linux,nodejs,mysql,postman,express,docker,vercel" />
 </p>
 
 ---
