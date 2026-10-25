@@ -18,7 +18,7 @@
 
 ⚙️ Intermediate: Node.js, MySQL, Postman, MySQL Workbench ,TypeScript — building REST APIs with Express, JWT, and database integration.
 
-🗄️ Beginner: SQL Server — actively expanding my database expertise.
+🗄️ familiarity with SQL Server.
 
 🛠️ Experienced with Git and WSL for Linux-based development on Windows.
 
